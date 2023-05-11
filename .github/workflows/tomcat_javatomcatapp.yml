@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'Javatomcatapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_661046EF174D4736B3DB637FA7019DD5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D422D7F6ADE7462D83A559162142A1F1 }}
           package: '*.war'
